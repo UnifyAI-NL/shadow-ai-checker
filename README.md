@@ -20,13 +20,13 @@ Your team already uses AI. Often not the AI you know about: ChatGPT on a persona
 - **A one-page AI policy** and a **cheat sheet** for the team: "Can this go into AI?"
 - **A paragraph on AI literacy** (EU AI Act, article 4)
 
-The provider reference ([`references/tools.md`](shadow-ai-checker/references/tools.md)) is dated and lists its sources. Terms change: the setting in your own account is what counts.
+The provider reference at the end of [`SKILL.md`](shadow-ai-checker/SKILL.md) is dated and lists its sources. Terms change: the setting in your own account is what counts.
 
 ## Install
 
 - **claude.ai or the desktop app:** download the folder [`shadow-ai-checker`](shadow-ai-checker/) as a zip and upload it under Settings › Capabilities › Skills.
 - **Claude Code:** copy the folder to `~/.claude/skills/` (or `.claude/skills/` in your project).
-- **ChatGPT, Gemini or Copilot:** paste the contents of [`SKILL.md`](shadow-ai-checker/SKILL.md) as your first message, followed by `references/tools.md`.
+- **ChatGPT, Gemini or Copilot:** paste the contents of [`SKILL.md`](shadow-ai-checker/SKILL.md) as your first message.
 
 Then start with: *"Run the shadow AI check for my company."*
 
