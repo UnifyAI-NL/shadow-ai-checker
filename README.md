@@ -8,8 +8,9 @@ Your team already uses AI. Often not the AI you know about: ChatGPT on a persona
 
 1. **Asks your language** and says which assistant it is, and what it cannot see about your own account.
 2. **Interviews you** in three short rounds: the company, your software and accounts, and your connections (connectors, MCP servers, automations, chatbots, extensions).
-3. **Writes an anonymous team questionnaire** of five questions, because the owner never knows everything the team uses. Paste the answers back and the skill adds them.
-4. **Checks every data flow**: training on or off, EU or US, a data processing agreement, what a connection can read or change, and the EU AI Act.
+3. **Optionally reads your admin console with you** (Microsoft 365 or Google Workspace): which apps people connected to their work account, and which browser extensions are installed. Hard evidence next to what people say.
+4. **Writes an anonymous team questionnaire** of five questions, because the owner never knows everything the team uses. Paste the answers back and the skill adds them.
+5. **Checks every data flow**: training on or off, EU or US, a data processing agreement, what a connection can read or change, and the EU AI Act.
 
 ## What you get
 

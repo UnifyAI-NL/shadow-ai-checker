@@ -38,6 +38,18 @@ Connections are where AI gets access to company data without anyone pasting anyt
 
 Per connection: what can it read, what can it change or send, who set it up, and can anyone switch it off?
 
+## Optional: what the admin console shows
+
+Offer this step; it is optional. Answers from the owner and the team are what people say. The admin console of the company accounts shows what is actually connected, so it adds hard evidence. Ask whether the company uses Microsoft 365 or Google Workspace and whether someone has admin access. If not, skip this step.
+
+Walk them through it step by step. Menu names change, so describe what to look for and let them search if a path differs:
+
+- **Microsoft 365:** in the Microsoft Entra admin center, open **Enterprise applications** (all applications). This lists the apps people signed in to with their work account or gave access to mail, files or calendar. Also check the **user consent settings**: may employees connect apps themselves?
+- **Google Workspace:** in the Google Admin console, open **Security › Access and data control › API controls › Manage third-party app access**. This lists the apps that accessed company accounts, with what they may read.
+- **Browser extensions:** if laptops are managed (Chrome Enterprise, Microsoft Intune or Edge management), the list of installed extensions per device or user.
+
+Ask them to paste the names of apps and extensions (no user names). Mark every AI tool you recognise, add it to the data map with the source "admin console", and note which permissions it has (read mail, read files, send on behalf of). An AI app with access to mailboxes or files that nobody mentioned is a finding on its own.
+
 ## Part B: the team questionnaire
 
 Write a short **anonymous** questionnaire in the chosen language for the owner to forward (a form, a mail or a message). Two minutes, no names. Use these five questions:
